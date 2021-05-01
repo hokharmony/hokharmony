@@ -14,6 +14,8 @@
 
 - hokharmony [Youtube](https://www.youtube.com/channel/UC5XBrb0wb4lnpfG0cSTaguQ)
 
+- hokharmony [Twitter](https://twitter.com/hokharmony)
+
 - hokharmony [Reddit](https://www.reddit.com/u/hokharmony)
 
 - hokharmony [Steam](https://steamcommunity.com/profiles/76561198874388272)
