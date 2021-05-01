@@ -8,8 +8,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-
-### hokharmony
 [<img align="left" alt="hokharmony | GitHub" width="44px" src="https://cdn.discordapp.com/attachments/744842644798046211/838091206348767302/5d69e29f0d71aaa04ed9725100199b4e.png" />][github]
 [<img align="left" alt="hokharmony | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
 [<img align="left" alt="hokharmony | YouTube" width="44px" src="https://img.icons8.com/color/2x/youtube-play.png" />][youtube]
@@ -22,16 +20,7 @@
 [youtube]: https://www.youtube.com/channel/UC5XBrb0wb4lnpfG0cSTaguQ
 [twitter]: https://twitter.com/hokharmony
 
-### Daha fazlası aağda bulunan listede;
   
-- hokharmony [GitHub](https://github.com/hokharmony)
-
-- hokharmony [Twitch](https://www.twitch.tv/hokharmony)
-
-- hokharmony [Youtube](https://www.youtube.com/channel/UC5XBrb0wb4lnpfG0cSTaguQ)
-
-- hokharmony [Twitter](https://twitter.com/hokharmony)
-
 - hokharmony [Reddit](https://www.reddit.com/u/hokharmony)
 
 - hokharmony [Steam](https://steamcommunity.com/profiles/76561198874388272)
