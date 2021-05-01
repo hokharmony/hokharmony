@@ -14,6 +14,10 @@
 
 - hokharmony [Youtube](https://www.youtube.com/channel/UC5XBrb0wb4lnpfG0cSTaguQ)
 
+- hokharmony [Reddit](https://www.reddit.com/u/hokharmony)
+
+- hokharmony [Steam](https://steamcommunity.com/profiles/76561198874388272)
+
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/hokharmony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="https://twitter.com/hokharmony" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hokharmony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="hokharmony" height="30" width="40" /></a>
