@@ -24,19 +24,14 @@
 
 <h3 align="left">Deneme:</h3>
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)][twitch]
-[![Discord](https://img.shields.io/discord/340568729634996225?label=Discord&logo=Discord)][discord]
 
 [<img align="left" alt="utkuali | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
-[<img align="left" alt="utkuali| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
 [<img align="left" alt="utkuali | Youtube" width="44px" src="https://img.icons8.com/color/2x/youtube-play.png" />][youtube]
-[<img align="left" alt="utkuali | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram]
 
 <br />
 
-[discord]: https://discord.gg/yqHmvcr
-[instagram]: https://www.instagram.com/aliutkuoner/
-[twitch]: https://www.twitch.tv/utkuali
-[youtube]: https://www.youtube.com/channel/UCYAr8yo--p1Jf_TjM3Vi8GA?view_as=subscriber
+[twitch]: https://www.twitch.tv/hokharmony
+[youtube]: https://www.youtube.com/channel/UC5XBrb0wb4lnpfG0cSTaguQ
 
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/hokharmony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="https://twitter.com/hokharmony" height="30" width="40" /></a>
