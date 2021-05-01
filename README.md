@@ -22,19 +22,6 @@
 
 - hokharmony [Spotify](https://open.spotify.com/user/31rliietdvsx7qgkbzwjsaiqwvxq)
 
-<h3 align="left">Hazrlanıyor:</h3>
-
-[<img align="left" alt=hokharmony | GitHub" width="44px" src="https://cdn.discordapp.com/attachments/744842644798046211/838057872109600838/255-2558173_github-logo-png-transparent-png.png" />][github]
-[<img align="left" alt="utkuali | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
-[<img align="left" alt="utkuali | Youtube" width="44px" src="https://img.icons8.com/color/2x/youtube-play.png" />][youtube]
-
-
-<br />
-
-[github]:https://cdn.discordapp.com/attachments/744842644798046211/838057872109600838/255-2558173_github-logo-png-transparent-png.png
-[twitch]: https://www.twitch.tv/hokharmony
-[youtube]: https://www.youtube.com/channel/UC5XBrb0wb4lnpfG0cSTaguQ
-
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/hokharmony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="https://twitter.com/hokharmony" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hokharmony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="hokharmony" height="30" width="40" /></a>
