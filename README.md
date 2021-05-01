@@ -1,4 +1,3 @@
-<h1 align="center">hokharmony hokharmony</h1>
 <h3 align="center">hokharmony</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hokharmony&label=Profile%20views&color=0e75b6&style=flat" alt="hokharmony" /> </p>
