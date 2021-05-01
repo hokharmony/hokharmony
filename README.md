@@ -7,11 +7,6 @@
 <p align="left"> <a href="https://twitter.com/https://twitter.com/hokharmony" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/hokharmony?logo=twitter&style=for-the-badge" alt="https://twitter.com/hokharmony" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-
-[<img align="left" alt="hokharmony | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />]
-[<img align="left" alt="UC5XBrb0wb4lnpfG0cSTaguQ | Youtube" width="44px" src="https://img.icons8.com/color/2x/youtube-play.png" />]
-[<img align="left" alt="hokharmony | Twitter" width="44px" src="https://cdn.discordapp.com/attachments/744842644798046211/838045823992463400/580b57fcd9996e24bc43c53e.png" />]
-[<img align="left" alt="hokharmony | Reddit" width="44px" src="https://cdn.discordapp.com/attachments/744842644798046211/838046509266239538/reddit-logo-16.png" />]
   
 - hokharmony [GitHub](https://github.com/hokharmony)
 
