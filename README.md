@@ -23,6 +23,7 @@
 - hokharmony [Spotify](https://open.spotify.com/user/31rliietdvsx7qgkbzwjsaiqwvxq)
 
 <h3 align="left">Geliştirilecek:</h3>
+[<img align="left" alt="utkuali | Twitch" width="44px" src="https://cdn.discordapp.com/attachments/744842644798046211/838050497939767346/2472e8680b642aef4b5d893773165d61_1-2_1_984x1024.jpg" />][hokharmony]
 
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/hokharmony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="https://twitter.com/hokharmony" height="30" width="40" /></a>
