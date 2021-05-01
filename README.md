@@ -8,6 +8,11 @@
 
 <h3 align="left">Connect with me:</h3>
 
+[<img align="left" alt="utkuali | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
+[<img align="left" alt="utkuali| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
+[<img align="left" alt="utkuali | Youtube" width="44px" src="https://img.icons8.com/color/2x/youtube-play.png" />][youtube]
+[<img align="left" alt="utkuali | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram]
+
 - hokharmony [GitHub](https://github.com/hokharmony)
 
 - hokharmony [Twitch](https://www.twitch.tv/hokharmony)
