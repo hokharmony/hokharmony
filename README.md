@@ -12,7 +12,7 @@
 [<img align="left" alt="UC5XBrb0wb4lnpfG0cSTaguQ | Youtube" width="44px" src="https://img.icons8.com/color/2x/youtube-play.png" />][youtube]
 [<img align="left" alt="hokharmony | Twitter" width="44px" src="https://cdn.discordapp.com/attachments/744842644798046211/838045823992463400/580b57fcd9996e24bc43c53e.png" />][twitter]
 [<img align="left" alt="hokharmony | Reddit" width="44px" src="https://cdn.discordapp.com/attachments/744842644798046211/838046509266239538/reddit-logo-16.png" />][reddit]
-[<img align="left" alt=hokharmony  | Steam" width="44px" srx="https://cdn.discordapp.com/attachments/744842644798046211/838046788170416168/Steam_Logo.png" />][steam]
+[<img align="left" alt=hokharmony | Reddit" width="44px" src="https://cdn.discordapp.com/attachments/744842644798046211/838046788170416168/Steam_Logo.png" />][reddit]
 - hokharmony [GitHub](https://github.com/hokharmony)
 
 - hokharmony [Twitch](https://www.twitch.tv/hokharmony)
