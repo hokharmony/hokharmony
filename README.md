@@ -22,6 +22,8 @@
 
 - hokharmony [Spotify](https://open.spotify.com/user/31rliietdvsx7qgkbzwjsaiqwvxq)
 
+<h3 align="left">Geliştirilecek:</h3>
+
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/hokharmony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="https://twitter.com/hokharmony" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hokharmony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="hokharmony" height="30" width="40" /></a>
