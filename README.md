@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/hokharmony" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/hokharmony?logo=twitter&style=for-the-badge" alt="https://twitter.com/hokharmony" /></a> </p>
 
-<h3align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 - hokharmony [hokharmony](https://github.com/hokharmony/hokharmony)
 
