@@ -24,15 +24,16 @@
 
 <h3 align="left">Hazrlanıyor:</h3>
 
+[<img align="left" alt=hokharmony | GitHub" width="44px" src="https://cdn.discordapp.com/attachments/744842644798046211/838057872109600838/255-2558173_github-logo-png-transparent-png.png" />][github]
 [<img align="left" alt="utkuali | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
 [<img align="left" alt="utkuali | Youtube" width="44px" src="https://img.icons8.com/color/2x/youtube-play.png" />][youtube]
-[<img align="left" alt="hokharmony | GitHub" width="44px" snc="https://cdn.discordapp.com/attachments/744842644798046211/838055547650572369/5d69e29f0d71aaa04ed9725100199b4e.png" />][github]
+
 
 <br />
 
+[github]:https://cdn.discordapp.com/attachments/744842644798046211/838057872109600838/255-2558173_github-logo-png-transparent-png.png
 [twitch]: https://www.twitch.tv/hokharmony
 [youtube]: https://www.youtube.com/channel/UC5XBrb0wb4lnpfG0cSTaguQ
-[github]: https://cdn.discordapp.com/attachments/744842644798046211/838055547650572369/5d69e29f0d71aaa04ed9725100199b4e.png
 
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/hokharmony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="https://twitter.com/hokharmony" height="30" width="40" /></a>
