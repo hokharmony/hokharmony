@@ -23,6 +23,7 @@
 - hokharmony [Spotify](https://open.spotify.com/user/31rliietdvsx7qgkbzwjsaiqwvxq)
 
 <h3 align="left">Deneme:</h3>
+
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)][twitch]
 
 [<img align="left" alt="utkuali | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
