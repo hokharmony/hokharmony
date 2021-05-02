@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/https://twitter.com/hokharmony" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/hokharmony?logo=twitter&style=for-the-badge" alt="https://twitter.com/hokharmony" /></a> </p>
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.cankcygt.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/shadowpro98?si=Cy5L7C8jTJaEcK6G2-4Mhg)
+[<img src="https://novatorem.hokharmony.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31rliietdvsx7qgkbzwjsaiqwvxq)
 
 
 <h3 align="left">Connect with me:</h3>
