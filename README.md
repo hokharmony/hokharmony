@@ -6,10 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/hokharmony" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/hokharmony?logo=twitter&style=for-the-badge" alt="https://twitter.com/hokharmony" /></a> </p>
 
-### Spotify Playing 🎧
-[<img src="https://novatorem.hokharmony.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31rliietdvsx7qgkbzwjsaiqwvxq)
-
-
 <h3 align="left">Connect with me:</h3>
 
 [<img align="left" alt="hokharmony | GitHub" width="44px" src="https://cdn.discordapp.com/attachments/744842644798046211/838091206348767302/5d69e29f0d71aaa04ed9725100199b4e.png" />][github]
