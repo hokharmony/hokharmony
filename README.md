@@ -23,11 +23,11 @@
 [twitter]: https://twitter.com/hokharmony
 
   
-- hokharmony [Reddit](https://www.reddit.com/u/hokharmony)
+- hokharmony [Reddit Account](https://www.reddit.com/u/hokharmony)
 
-- hokharmony [Steam](https://steamcommunity.com/profiles/76561198874388272)
+- hokharmony [Steam Account](https://steamcommunity.com/profiles/76561198874388272)
 
-- hokharmony [Spotify](https://open.spotify.com/user/31rliietdvsx7qgkbzwjsaiqwvxq)
+- hokharmony [Spotify Account](https://open.spotify.com/user/31rliietdvsx7qgkbzwjsaiqwvxq)
 
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/hokharmony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="https://twitter.com/hokharmony" height="30" width="40" /></a>
