@@ -55,22 +55,8 @@
 <br />
 
 ---
-
 <details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. undefined
-2. undefined
-3. undefined
-4. undefined
-5. undefined
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
+  <summary>Github Stats</summary>
 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hokharmony" alt="hokharmony" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hokharmony&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="hokharmony" /></p>
