@@ -51,15 +51,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hokharmony&theme=dark&hide_langs_below=1">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hokharmony&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="hokharmony" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hokharmony&theme=dark" alt="hokharmony" /></p>
-<br />
-<br />
-
----
-<details>
-  <summary>Github Stats</summary>
-
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hokharmony" alt="hokharmony" /></a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hokharmony&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="hokharmony" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hokharmony&theme=dark" alt="hokharmony" /></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hokharmony&theme=dark&hide_langs_below=1">
-</details>
