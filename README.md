@@ -72,6 +72,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="cankcygt's Github Stats" src="https://github-readme-stats.cankcygt.vercel.app/api?username=cankcygt&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hokharmony&theme=dark&hide_langs_below=1">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hokharmony&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="hokharmony" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hokharmony&theme=dark" alt="hokharmony" /></p>
 
 </details>
