@@ -20,13 +20,14 @@
 [twitch]: https://www.twitch.tv/hokharmony
 [youtube]: https://www.youtube.com/channel/UC5XBrb0wb4lnpfG0cSTaguQ
 [twitter]: https://twitter.com/hokharmony
-
-  
+ 
 - hokharmony | [Reddit Account](https://www.reddit.com/u/hokharmony)
 
 - hokharmony | [Steam Account](https://steamcommunity.com/profiles/76561198874388272)
 
 - hokharmony | [Spotify Account](https://open.spotify.com/user/31rliietdvsx7qgkbzwjsaiqwvxq)
+
+<img src="https://cdn.discordapp.com/attachments/744842644798046211/872429219366469652/855599238235160616.gif" width="40" height="40" />
 
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/hokharmony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="https://twitter.com/hokharmony" height="30" width="40" /></a>
