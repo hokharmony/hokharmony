@@ -1,5 +1,7 @@
 <h3 align="center">hokharmony</h3>
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/407534264524210187)](https://discord.com/users/407534264524210187)  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hokharmony&label=Profile%20views&color=0e75b6&style=flat" alt="hokharmony" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hokharmony" alt="hokharmony" /></a> </p>
